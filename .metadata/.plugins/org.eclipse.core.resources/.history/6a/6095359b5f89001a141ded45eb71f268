@@ -1,0 +1,20 @@
+package 练习题;
+
+import java.util.Scanner;
+
+import com.sun.tools.sjavac.server.SysInfo;
+
+public class 数组元素输入 {
+	public static void main(String[] args) {
+		char a[]=new char[3];//定义一个长度为3的字符数组
+		Scanner scan =new Scanner(System.in);
+		for (char c : a) {
+			String s = in.nextLine();
+			char[] chars = s.toArray();
+			c = chars[0]; 
+		}
+		for (char c : a) {
+			System.out.println(c);
+		}
+	}
+}

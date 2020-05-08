@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;d&apos; in &apos;com.itranswarp.learnjava.FormattedOutput.main(...)&apos; to &apos;a&apos;&#x0D;&#x0A;- Original project: &apos;flow-input-output&apos;&#x0D;&#x0A;- Original element: &apos;com.itranswarp.learnjava.FormattedOutput.main(String[]).d&apos;&#x0D;&#x0A;- Renamed element: &apos;d&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;d&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.itranswarp.learnjava{FormattedOutput.java[FormattedOutput~main~\[QString;@d!110!129!117!117!D!0!false" name="a" references="true" stamp="1586685971358" version="1.0"/>
+</session>
